@@ -1,0 +1,15 @@
+{
+  "name": "web3-github-dotenv",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node balance"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv-vault-core": "^0.6.1",
+    "web3": "^1.8.1"
+  }
+}
