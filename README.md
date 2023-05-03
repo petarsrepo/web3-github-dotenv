@@ -1,4 +1,4 @@
-# web3-github-dotenv
+# web3-github-dotenv [![works with dotenv-vault](https://badge.dotenv.org/works-with.svg?r=1)](https://www.dotenv.org/r/github.com/dotenv-org/dotenv-vault?r=1)
 
 A small example repo on how to integrate Dotenv Vault in a Web3 CI/CD workflow with GitHub Actions.
 
